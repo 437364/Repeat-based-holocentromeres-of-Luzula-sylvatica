@@ -1,7 +1,7 @@
 # Repeat-based-holocentromeres-of-Luzula-sylvatica
 This repository contains the code used for analysis in the "Repeat-based holocentromeres of *Luzula sylvatica* (Juncaceae) reveal new insights into the evolutionary transition to holocentricity" article
 
-<img src=https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/IMG-20230703-WA0000%20(1).jpg width="100" title="Foto: Stefan Steckenborn"/>
+<img src=https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/IMG-20230703-WA0000%20(1).jpg width="100" title="photo: Stefan Steckenborn"/>
 
 # Contents of the notebooks/ folder:
 ## ChIP-seq analysis
