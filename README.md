@@ -21,3 +21,5 @@ This repository contains the code used for analysis in the "Repeat-based holocen
 **modddotplot_stats** - calculate average similarities in functional vs nonfunctional arrays
 
 **array_nonB_structures** - identify dyad symmetries, visualize them
+
+**colocalization_correlogram** - create correlogram from bed files
