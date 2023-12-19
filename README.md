@@ -12,6 +12,8 @@ This repository contains the code used for analysis in the "Repeat-based holocen
 
 [**epigenetic_mark_enrichment**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/pigenetic_mark_enrichment.ipynb) - create bigwig files showing regions enriched for epigenetic marks from bam files, replicate merging, create metaplots showing enrichment of genomic elements 
 
+[**colocalization_simulated**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/colocalization_simulated.ipynb) - analyze overlaps between genomic and epigenomic features using Monte Carlo simulations, create heatmap with percentiles
+
 ## Centromeric units analysis
 [**centromeric_units**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/centromeric_units.ipynb) - calculate size, density, count of CENH3 units
 
