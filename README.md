@@ -20,7 +20,7 @@ This repository contains the code used for analysis in the "Repeat-based holocen
 [**functional_centromeric_arrays**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/functional_centromeric_arrays.ipynb) - identify overlaps of CENH3 units with satellites, visualize their size, extract their sequences, create dotplots
 
 
-[**modddotplot_stats**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/modddotplot_stats.ipynb) - calculate average similarities in functional vs nonfunctional arrays
+[**moddotplot_stats**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/moddotplot_stats.ipynb) - calculate average similarities in functional vs nonfunctional arrays
 
 [**array_nonB_structures**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/array_nonB_structures.ipynb) - identify dyad symmetries, visualize them
 
