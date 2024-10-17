@@ -12,7 +12,7 @@ Input data files for executing the code are available upon request.
 
 [**merging_distance_optimization**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/merging_distance_optimization.ipynb) - calculating silhouette score, sum of squares for a range of merging distances
 
-[**epigenetic_mark_enrichment**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/pigenetic_mark_enrichment.ipynb) - create bigwig files showing regions enriched for epigenetic marks from bam files, replicate merging, create metaplots showing enrichment of genomic elements 
+[**epigenetic_mark_enrichment**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/epigenetic_mark_enrichment.ipynb) - create bigwig files showing regions enriched for epigenetic marks from bam files, replicate merging, create metaplots showing enrichment of genomic elements 
 
 [**colocalization_simulated**](https://github.com/437364/Repeat-based-holocentromeres-of-Luzula-sylvatica/blob/main/notebooks/colocalization_simulated.ipynb) - analyze overlaps between genomic and epigenomic features using Monte Carlo simulations, create heatmap with percentiles
 
