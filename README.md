@@ -1,5 +1,7 @@
 # Repeat-based-holocentromeres-of-Luzula-sylvatica
-This repository contains the code used for analysis in the "Repeat-based holocentromeres of the woodrush Luzula sylvatica reveal insights into the evolutionary transition to holocentricity" article.
+This repository contains the code used for analysis in 
+
+Mata-Sucre, Y., Krátká, M., Oliveira, L., Neumann, P., Macas, J., Schubert, V., ... & Marques, A. (2024). Repeat-based holocentromeres of the woodrush Luzula sylvatica reveal insights into the evolutionary transition to holocentricity. Nature Communications, 15(1), 9565.
 
 Input data files for executing the code are available upon request.
 
